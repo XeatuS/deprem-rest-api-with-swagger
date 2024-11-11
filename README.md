@@ -32,5 +32,3 @@ adresinge giderseniz apilerinizi veya
 adresine giderseniz swagger dökümantasyonunu bulabilirsiniz.
 
 Not: Projede maddi hiçbir amaç güdülmemektedir.
-
-İletişime geçmek için: [linkedIn](https://linkedin.com/in/husnu)
